@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fila-no-asp-net-core-7", "fila-no-asp-net-core-7\fila-no-asp-net-core-7.csproj", "{F3A9C0EC-9952-43D6-A6E1-6F1AD9680038}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fila-no-asp-net-core-7.Tests", "fila-no-asp-net-core-7.Tests\fila-no-asp-net-core-7.Tests.csproj", "{E02001EE-D312-440B-AD4E-6F184B093681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A9C0EC-9952-43D6-A6E1-6F1AD9680038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A9C0EC-9952-43D6-A6E1-6F1AD9680038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A9C0EC-9952-43D6-A6E1-6F1AD9680038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A9C0EC-9952-43D6-A6E1-6F1AD9680038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02001EE-D312-440B-AD4E-6F184B093681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02001EE-D312-440B-AD4E-6F184B093681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02001EE-D312-440B-AD4E-6F184B093681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02001EE-D312-440B-AD4E-6F184B093681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE59086-E93F-4AA4-909B-88660891CC6A}
+	EndGlobalSection
+EndGlobal
